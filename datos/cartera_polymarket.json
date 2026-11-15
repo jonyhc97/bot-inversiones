@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 178.61349,
+  "efectivo": 175.385967,
   "posiciones": {
     "3013350": {
       "id": "3013350",
@@ -9,7 +9,7 @@
       "cantidad": 158.73015873015873,
       "precio_entrada": 0.63,
       "costo": 100.0,
-      "precio_actual": 0.55,
+      "precio_actual": 0.57,
       "precio_max": 0.63,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Bitcoin"
@@ -21,7 +21,7 @@
       "cantidad": 153.84615384615384,
       "precio_entrada": 0.65,
       "costo": 100.0,
-      "precio_actual": 0.65,
+      "precio_actual": 0.57,
       "precio_max": 0.65,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -45,8 +45,8 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.8089999999999999,
-      "precio_max": 0.81,
+      "precio_actual": 0.8109999999999999,
+      "precio_max": 0.8109999999999999,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
     },
@@ -57,22 +57,10 @@
       "cantidad": 117.64705882352942,
       "precio_entrada": 0.85,
       "costo": 100.0,
-      "precio_actual": 0.81,
+      "precio_actual": 0.8200000000000001,
       "precio_max": 0.85,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
-    },
-    "701501": {
-      "id": "701501",
-      "nombre": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "lado": "YES",
-      "cantidad": 268.23146555774076,
-      "precio_entrada": 0.34,
-      "costo": 91.19869828963186,
-      "precio_actual": 0.29,
-      "precio_max": 0.34,
-      "fecha_entrada": "2026-11-15 09:05 UTC",
-      "tema": "Bitcoin"
     },
     "701552": {
       "id": "701552",
@@ -81,7 +69,7 @@
       "cantidad": 242.6813718892143,
       "precio_entrada": 0.368,
       "costo": 89.30674485523086,
-      "precio_actual": 0.368,
+      "precio_actual": 0.348,
       "precio_max": 0.368,
       "fecha_entrada": "2026-11-15 10:59 UTC",
       "tema": "Ethereum"
@@ -93,16 +81,29 @@
       "cantidad": 89.1969118415137,
       "precio_entrada": 0.87,
       "costo": 77.60131330211692,
-      "precio_actual": 0.87,
+      "precio_actual": 0.86,
       "precio_max": 0.87,
       "fecha_entrada": "2026-11-15 10:59 UTC",
+      "tema": null
+    },
+    "1383905": {
+      "id": "1383905",
+      "nombre": "Extended FDV above $150M one day after launch?",
+      "lado": "NO",
+      "cantidad": 182.16821819319728,
+      "precio_entrada": 0.43000000000000005,
+      "costo": 78.33233382307483,
+      "precio_actual": 0.43000000000000005,
+      "precio_max": 0.43000000000000005,
+      "fecha_entrada": "2026-11-15 13:15 UTC",
       "tema": null
     }
   },
   "vendidos": {
     "6507388": "2026-11-15T09:05:54.342229+00:00",
     "6507424": "2026-11-15T10:59:56.920887+00:00",
-    "6507425": "2026-11-15T10:59:56.921114+00:00"
+    "6507425": "2026-11-15T10:59:56.921114+00:00",
+    "701501": "2026-11-15T13:15:30.400300+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
