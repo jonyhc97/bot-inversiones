@@ -21,7 +21,7 @@
       "cantidad": 212.76595744680853,
       "precio_entrada": 0.47,
       "costo": 100.0,
-      "precio_actual": 0.47,
+      "precio_actual": 0.46,
       "precio_max": 0.47,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Bitcoin"
@@ -45,7 +45,7 @@
       "cantidad": 248.13895781637714,
       "precio_entrada": 0.403,
       "costo": 100.0,
-      "precio_actual": 0.395,
+      "precio_actual": 0.389,
       "precio_max": 0.403,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Ethereum"
@@ -57,7 +57,7 @@
       "cantidad": 153.84615384615384,
       "precio_entrada": 0.65,
       "costo": 100.0,
-      "precio_actual": 0.63,
+      "precio_actual": 0.64,
       "precio_max": 0.65,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -69,7 +69,7 @@
       "cantidad": 189.75332068311195,
       "precio_entrada": 0.527,
       "costo": 100.0,
-      "precio_actual": 0.502,
+      "precio_actual": 0.503,
       "precio_max": 0.527,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
