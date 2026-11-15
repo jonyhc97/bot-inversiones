@@ -1,19 +1,7 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 224.525407,
+  "efectivo": 274.366092,
   "posiciones": {
-    "3013350": {
-      "id": "3013350",
-      "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "lado": "YES",
-      "cantidad": 158.73015873015873,
-      "precio_entrada": 0.63,
-      "costo": 100.0,
-      "precio_actual": 0.6,
-      "precio_max": 0.63,
-      "fecha_entrada": "2026-11-15 06:45 UTC",
-      "tema": "Bitcoin"
-    },
     "2293877": {
       "id": "2293877",
       "nombre": "Robert Pattinson announced as next James Bond?",
@@ -21,7 +9,7 @@
       "cantidad": 189.75332068311195,
       "precio_entrada": 0.527,
       "costo": 100.0,
-      "precio_actual": 0.469,
+      "precio_actual": 0.522,
       "precio_max": 0.527,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -33,7 +21,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.81,
+      "precio_actual": 0.8089999999999999,
       "precio_max": 0.812,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -45,7 +33,7 @@
       "cantidad": 117.64705882352942,
       "precio_entrada": 0.85,
       "costo": 100.0,
-      "precio_actual": 0.8200000000000001,
+      "precio_actual": 0.81,
       "precio_max": 0.85,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -57,7 +45,7 @@
       "cantidad": 242.6813718892143,
       "precio_entrada": 0.368,
       "costo": 89.30674485523086,
-      "precio_actual": 0.368,
+      "precio_actual": 0.353,
       "precio_max": 0.375,
       "fecha_entrada": "2026-11-15 10:59 UTC",
       "tema": "Ethereum"
@@ -81,8 +69,8 @@
       "cantidad": 182.16821819319728,
       "precio_entrada": 0.43000000000000005,
       "costo": 78.33233382307483,
-      "precio_actual": 0.41000000000000003,
-      "precio_max": 0.43000000000000005,
+      "precio_actual": 0.49,
+      "precio_max": 0.49,
       "fecha_entrada": "2026-11-15 13:15 UTC",
       "tema": null
     },
@@ -93,9 +81,21 @@
       "cantidad": 74.51118893927227,
       "precio_entrada": 0.6,
       "costo": 44.70671336356336,
-      "precio_actual": 0.6,
+      "precio_actual": 0.58,
       "precio_max": 0.6,
       "fecha_entrada": "2026-11-15 16:57 UTC",
+      "tema": null
+    },
+    "2750302": {
+      "id": "2750302",
+      "nombre": "Will Benjamin Netanyahu be the next leader out before 2027?",
+      "lado": "NO",
+      "cantidad": 68.78395547979085,
+      "precio_entrada": 0.6599999999999999,
+      "costo": 45.39741061666195,
+      "precio_actual": 0.6599999999999999,
+      "precio_max": 0.6599999999999999,
+      "fecha_entrada": "2026-11-15 20:56 UTC",
       "tema": null
     }
   },
@@ -104,7 +104,9 @@
     "6507424": "2026-11-15T10:59:56.920887+00:00",
     "6507425": "2026-11-15T10:59:56.921114+00:00",
     "701501": "2026-11-15T13:15:30.400300+00:00",
-    "2872613": "2026-11-15T16:57:48.093551+00:00"
+    "2872613": "2026-11-15T16:57:48.093551+00:00",
+    "3013350": "2026-11-15T20:56:40.551607+00:00",
+    "tema:Cripto": "2026-11-15T20:56:37.434212+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
