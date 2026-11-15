@@ -1,0 +1,104 @@
+{
+  "capital_inicial": 1000.0,
+  "efectivo": 200.0,
+  "posiciones": {
+    "6507424": {
+      "id": "6507424",
+      "nombre": "Will Ethereum dip to $1,700 in November?",
+      "lado": "YES",
+      "cantidad": 151.5151515151515,
+      "precio_entrada": 0.66,
+      "costo": 100.0,
+      "precio_actual": 0.65,
+      "precio_max": 0.66,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Ethereum"
+    },
+    "6507388": {
+      "id": "6507388",
+      "nombre": "Will Bitcoin dip to $60,000 in November?",
+      "lado": "YES",
+      "cantidad": 212.76595744680853,
+      "precio_entrada": 0.47,
+      "costo": 100.0,
+      "precio_actual": 0.47,
+      "precio_max": 0.47,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Bitcoin"
+    },
+    "3013350": {
+      "id": "3013350",
+      "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "lado": "YES",
+      "cantidad": 158.73015873015873,
+      "precio_entrada": 0.63,
+      "costo": 100.0,
+      "precio_actual": 0.62,
+      "precio_max": 0.63,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Bitcoin"
+    },
+    "6507425": {
+      "id": "6507425",
+      "nombre": "Will Ethereum dip to $1,600 in November?",
+      "lado": "YES",
+      "cantidad": 248.13895781637714,
+      "precio_entrada": 0.403,
+      "costo": 100.0,
+      "precio_actual": 0.395,
+      "precio_max": 0.403,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Ethereum"
+    },
+    "2872613": {
+      "id": "2872613",
+      "nombre": "Will Clavicular wear a Yarmulke in 2026?",
+      "lado": "YES",
+      "cantidad": 153.84615384615384,
+      "precio_entrada": 0.65,
+      "costo": 100.0,
+      "precio_actual": 0.63,
+      "precio_max": 0.65,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": null
+    },
+    "2293877": {
+      "id": "2293877",
+      "nombre": "Robert Pattinson announced as next James Bond?",
+      "lado": "YES",
+      "cantidad": 189.75332068311195,
+      "precio_entrada": 0.527,
+      "costo": 100.0,
+      "precio_actual": 0.502,
+      "precio_max": 0.527,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": null
+    },
+    "3128886": {
+      "id": "3128886",
+      "nombre": "US announces end of Iranian blockade by December 31, 2026?",
+      "lado": "NO",
+      "cantidad": 123.45679012345678,
+      "precio_entrada": 0.81,
+      "costo": 100.0,
+      "precio_actual": 0.8089999999999999,
+      "precio_max": 0.81,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Medio Oriente"
+    },
+    "3128768": {
+      "id": "3128768",
+      "nombre": "Iran full airspace closure by December 31?",
+      "lado": "NO",
+      "cantidad": 117.64705882352942,
+      "precio_entrada": 0.85,
+      "costo": 100.0,
+      "precio_actual": 0.8200000000000001,
+      "precio_max": 0.85,
+      "fecha_entrada": "2026-11-15 06:45 UTC",
+      "tema": "Medio Oriente"
+    }
+  },
+  "vendidos": {},
+  "creada": "2026-11-15 06:45 UTC"
+}
