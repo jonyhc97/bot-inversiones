@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 200.0,
+  "efectivo": 187.524706,
   "posiciones": {
     "6507424": {
       "id": "6507424",
@@ -9,22 +9,10 @@
       "cantidad": 151.5151515151515,
       "precio_entrada": 0.66,
       "costo": 100.0,
-      "precio_actual": 0.65,
+      "precio_actual": 0.6,
       "precio_max": 0.66,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Ethereum"
-    },
-    "6507388": {
-      "id": "6507388",
-      "nombre": "Will Bitcoin dip to $60,000 in November?",
-      "lado": "YES",
-      "cantidad": 212.76595744680853,
-      "precio_entrada": 0.47,
-      "costo": 100.0,
-      "precio_actual": 0.46,
-      "precio_max": 0.47,
-      "fecha_entrada": "2026-11-15 06:45 UTC",
-      "tema": "Bitcoin"
     },
     "3013350": {
       "id": "3013350",
@@ -33,7 +21,7 @@
       "cantidad": 158.73015873015873,
       "precio_entrada": 0.63,
       "costo": 100.0,
-      "precio_actual": 0.62,
+      "precio_actual": 0.57,
       "precio_max": 0.63,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Bitcoin"
@@ -45,7 +33,7 @@
       "cantidad": 248.13895781637714,
       "precio_entrada": 0.403,
       "costo": 100.0,
-      "precio_actual": 0.389,
+      "precio_actual": 0.347,
       "precio_max": 0.403,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Ethereum"
@@ -57,7 +45,7 @@
       "cantidad": 153.84615384615384,
       "precio_entrada": 0.65,
       "costo": 100.0,
-      "precio_actual": 0.64,
+      "precio_actual": 0.63,
       "precio_max": 0.65,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -69,7 +57,7 @@
       "cantidad": 189.75332068311195,
       "precio_entrada": 0.527,
       "costo": 100.0,
-      "precio_actual": 0.503,
+      "precio_actual": 0.511,
       "precio_max": 0.527,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -93,12 +81,26 @@
       "cantidad": 117.64705882352942,
       "precio_entrada": 0.85,
       "costo": 100.0,
-      "precio_actual": 0.8200000000000001,
+      "precio_actual": 0.83,
       "precio_max": 0.85,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
+    },
+    "701501": {
+      "id": "701501",
+      "nombre": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "lado": "YES",
+      "cantidad": 268.23146555774076,
+      "precio_entrada": 0.34,
+      "costo": 91.19869828963186,
+      "precio_actual": 0.34,
+      "precio_max": 0.34,
+      "fecha_entrada": "2026-11-15 09:05 UTC",
+      "tema": "Bitcoin"
     }
   },
-  "vendidos": {},
+  "vendidos": {
+    "6507388": "2026-11-15T09:05:54.342229+00:00"
+  },
   "creada": "2026-11-15 06:45 UTC"
 }
