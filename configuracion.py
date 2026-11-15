@@ -102,8 +102,9 @@ POLYMARKET = {
     "umbral_semana": 0.05,        # 5 puntos en 7 dias
     "max_posiciones": 8,
     "max_por_tema": 2,            # NUEVO: max 2 apuestas del mismo tema
-    "porcentaje_por_posicion": 0.10,
+    "porcentaje_por_posicion": 0.05,  # apuestas mas chicas (antes 10%)
     "reserva_efectivo": 0.20,
+    "dias_bloqueo_tema": 3,       # si pierde en un tema, no vuelve a apostar ahi en 3 dias
     "toma_ganancia": 0.25,
     "stop_loss": 0.15,
     "cerrar_si_faltan_dias": 1,
@@ -113,9 +114,9 @@ POLYMARKET = {
 
 # Temas para no concentrar apuestas en lo mismo (palabra -> tema)
 TEMAS_POLYMARKET = {
-    "bitcoin": "Bitcoin", "btc": "Bitcoin",
-    "ethereum": "Ethereum", "eth ": "Ethereum",
-    "solana": "Solana", "xrp": "XRP", "crypto": "Cripto",
+    # Todas las apuestas de precios cripto son el mismo tema: se mueven juntas
+    "bitcoin": "Cripto", "btc": "Cripto", "ethereum": "Cripto", "eth ": "Cripto",
+    "solana": "Cripto", "xrp": "Cripto", "crypto": "Cripto", "dogecoin": "Cripto",
     "elon": "Elon Musk", "musk": "Elon Musk", "tesla": "Elon Musk",
     "trump": "Trump", "fed ": "Tasas Fed", "rate cut": "Tasas Fed",
     "interest rate": "Tasas Fed",
