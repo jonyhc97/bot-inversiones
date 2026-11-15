@@ -135,12 +135,18 @@ def ciclo_polymarket():
         razon, precio = est.pm_razon_venta(cartera.posiciones[ident], m, momento)
         cartera.actualizar_precio(ident, precio)
         if razon:
-            cartera.vender(ident, precio, razon)
+            tema = est.tema(cartera.posiciones[ident]["nombre"])
+            ganancia = cartera.vender(ident, precio, razon)
+            if ganancia < 0 and tema:
+                # Perdio en este tema: no volver a apostar ahi por unos dias
+                cartera.vendidos["tema:" + tema] = momento.isoformat()
+                cartera.mensajes.append(f"Tema '{tema}' en pausa {p['dias_bloqueo_tema']} dias por perdida")
 
     por_tema = {}
     for pos in cartera.posiciones.values():
-        if pos.get("tema"):
-            por_tema[pos["tema"]] = por_tema.get(pos["tema"], 0) + 1
+        t = est.tema(pos["nombre"])
+        if t:
+            por_tema[t] = por_tema.get(t, 0) + 1
 
     for op in est.pm_oportunidades(mercados, momento):
         if len(cartera.posiciones) >= p["max_posiciones"]:
@@ -149,6 +155,8 @@ def ciclo_polymarket():
         if m["id"] in cartera.posiciones or cartera.recompra_bloqueada(m["id"], p["horas_espera_recompra"]):
             continue
         if op["tema"] and por_tema.get(op["tema"], 0) >= p["max_por_tema"]:
+            continue
+        if op["tema"] and cartera.recompra_bloqueada("tema:" + op["tema"], p["dias_bloqueo_tema"] * 24):
             continue
         monto = cartera.monto_para_comprar(p["porcentaje_por_posicion"], p["reserva_efectivo"])
         if monto < 1:
