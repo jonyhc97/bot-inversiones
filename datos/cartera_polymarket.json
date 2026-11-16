@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 358.128279,
+  "efectivo": 352.008967,
   "posiciones": {
     "2293877": {
       "id": "2293877",
@@ -9,7 +9,7 @@
       "cantidad": 189.75332068311195,
       "precio_entrada": 0.527,
       "costo": 100.0,
-      "precio_actual": 0.555,
+      "precio_actual": 0.499,
       "precio_max": 0.555,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": null
@@ -21,7 +21,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.8140000000000001,
+      "precio_actual": 0.813,
       "precio_max": 0.8140000000000001,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -57,8 +57,8 @@
       "cantidad": 74.51118893927227,
       "precio_entrada": 0.6,
       "costo": 44.70671336356336,
-      "precio_actual": 0.56,
-      "precio_max": 0.6,
+      "precio_actual": 0.61,
+      "precio_max": 0.61,
       "fecha_entrada": "2026-11-15 16:57 UTC",
       "tema": null
     },
@@ -69,21 +69,9 @@
       "cantidad": 68.78395547979085,
       "precio_entrada": 0.6599999999999999,
       "costo": 45.39741061666195,
-      "precio_actual": 0.64,
+      "precio_actual": 0.6599999999999999,
       "precio_max": 0.6599999999999999,
       "fecha_entrada": "2026-11-15 20:56 UTC",
-      "tema": null
-    },
-    "2965188": {
-      "id": "2965188",
-      "nombre": "Will Lindsay Clancy be the #1 searched person on Google this year?",
-      "lado": "YES",
-      "cantidad": 100.92304321910851,
-      "precio_entrada": 0.45,
-      "costo": 45.41536944859883,
-      "precio_actual": 0.45,
-      "precio_max": 0.45,
-      "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
     },
     "4451523": {
@@ -93,10 +81,22 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.22,
+      "precio_actual": 0.19,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
+    },
+    "3215013": {
+      "id": "3215013",
+      "nombre": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "lado": "YES",
+      "cantidad": 71.72591665227523,
+      "precio_entrada": 0.62,
+      "costo": 44.47006832441065,
+      "precio_actual": 0.62,
+      "precio_max": 0.62,
+      "fecha_entrada": "2026-11-16 01:46 UTC",
+      "tema": "Tasas Fed"
     }
   },
   "vendidos": {
@@ -109,7 +109,8 @@
     "tema:Cripto": "2026-11-15T22:55:03.442792+00:00",
     "3128768": "2026-11-15T22:55:06.672914+00:00",
     "tema:Medio Oriente": "2026-11-15T22:55:03.442792+00:00",
-    "701552": "2026-11-15T22:55:06.673159+00:00"
+    "701552": "2026-11-15T22:55:06.673159+00:00",
+    "2965188": "2026-11-16T01:46:35.202445+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
