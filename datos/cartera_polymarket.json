@@ -1,19 +1,7 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 344.128712,
+  "efectivo": 485.294464,
   "posiciones": {
-    "2293877": {
-      "id": "2293877",
-      "nombre": "Robert Pattinson announced as next James Bond?",
-      "lado": "YES",
-      "cantidad": 189.75332068311195,
-      "precio_entrada": 0.527,
-      "costo": 100.0,
-      "precio_actual": 0.569,
-      "precio_max": 0.569,
-      "fecha_entrada": "2026-11-15 06:45 UTC",
-      "tema": null
-    },
     "3128886": {
       "id": "3128886",
       "nombre": "US announces end of Iranian blockade by December 31, 2026?",
@@ -45,7 +33,7 @@
       "cantidad": 182.16821819319728,
       "precio_entrada": 0.43000000000000005,
       "costo": 78.33233382307483,
-      "precio_actual": 0.5,
+      "precio_actual": 0.49,
       "precio_max": 0.5,
       "fecha_entrada": "2026-11-15 13:15 UTC",
       "tema": null
@@ -57,7 +45,7 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.21,
+      "precio_actual": 0.2,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
@@ -81,7 +69,7 @@
       "cantidad": 73.29193439144883,
       "precio_entrada": 0.608,
       "costo": 44.56149611000089,
-      "precio_actual": 0.584,
+      "precio_actual": 0.587,
       "precio_max": 0.608,
       "fecha_entrada": "2026-11-16 09:06 UTC",
       "tema": "Tasas Fed"
@@ -93,10 +81,22 @@
       "cantidad": 266.47560538853327,
       "precio_entrada": 0.168,
       "costo": 44.76790170527359,
-      "precio_actual": 0.168,
+      "precio_actual": 0.148,
       "precio_max": 0.168,
       "fecha_entrada": "2026-11-16 11:39 UTC",
       "tema": null
+    },
+    "666593": {
+      "id": "666593",
+      "nombre": "Will Trump meet with Kim Jong Un in 2026?",
+      "lado": "YES",
+      "cantidad": 363.893348911731,
+      "precio_entrada": 0.133,
+      "costo": 48.397815405260225,
+      "precio_actual": 0.133,
+      "precio_max": 0.133,
+      "fecha_entrada": "2026-11-16 15:28 UTC",
+      "tema": "Trump"
     }
   },
   "vendidos": {
@@ -111,7 +111,8 @@
     "701552": "2026-11-15T22:55:06.673159+00:00",
     "2965188": "2026-11-16T01:46:35.202445+00:00",
     "2750302": "2026-11-16T09:06:52.736152+00:00",
-    "2750319": "2026-11-16T11:39:25.020964+00:00"
+    "2750319": "2026-11-16T11:39:25.020964+00:00",
+    "2293877": "2026-11-16T15:28:22.858414+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
