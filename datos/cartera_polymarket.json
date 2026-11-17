@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.8140000000000001,
+      "precio_actual": 0.817,
       "precio_max": 0.817,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -45,7 +45,7 @@
       "cantidad": 71.72591665227523,
       "precio_entrada": 0.62,
       "costo": 44.47006832441065,
-      "precio_actual": 0.61,
+      "precio_actual": 0.63,
       "precio_max": 0.63,
       "fecha_entrada": "2026-11-16 01:46 UTC",
       "tema": "Tasas Fed"
@@ -93,8 +93,8 @@
       "cantidad": 50.78347066459605,
       "precio_entrada": 0.893,
       "costo": 45.349639303484274,
-      "precio_actual": 0.893,
-      "precio_max": 0.893,
+      "precio_actual": 0.91,
+      "precio_max": 0.91,
       "fecha_entrada": "2026-11-17 13:33 UTC",
       "tema": null
     }
