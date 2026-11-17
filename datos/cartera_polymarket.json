@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 474.153516,
+  "efectivo": 463.712181,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.817,
+      "precio_actual": 0.8140000000000001,
       "precio_max": 0.817,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -62,18 +62,6 @@
       "fecha_entrada": "2026-11-16 09:06 UTC",
       "tema": "Tasas Fed"
     },
-    "2695678": {
-      "id": "2695678",
-      "nombre": "Will Pedro Sánchez be the next Prime Minister of Spain?",
-      "lado": "YES",
-      "cantidad": 266.47560538853327,
-      "precio_entrada": 0.168,
-      "costo": 44.76790170527359,
-      "precio_actual": 0.145,
-      "precio_max": 0.168,
-      "fecha_entrada": "2026-11-16 11:39 UTC",
-      "tema": null
-    },
     "5787490": {
       "id": "5787490",
       "nombre": "Next White House Press Secretary announced by November 30, 2026?",
@@ -97,6 +85,18 @@
       "precio_max": 0.25,
       "fecha_entrada": "2026-11-17 01:34 UTC",
       "tema": null
+    },
+    "5407575": {
+      "id": "5407575",
+      "nombre": "Will Predict.fun launch a token by November 30, 2026?",
+      "lado": "NO",
+      "cantidad": 50.78347066459605,
+      "precio_entrada": 0.893,
+      "costo": 45.349639303484274,
+      "precio_actual": 0.893,
+      "precio_max": 0.893,
+      "fecha_entrada": "2026-11-17 13:33 UTC",
+      "tema": null
     }
   },
   "vendidos": {
@@ -116,7 +116,8 @@
     "666593": "2026-11-16T17:31:26.410838+00:00",
     "tema:Trump": "2026-11-16T17:31:23.523863+00:00",
     "1383905": "2026-11-16T21:06:31.853183+00:00",
-    "6427837": "2026-11-17T01:34:56.106846+00:00"
+    "6427837": "2026-11-17T01:34:56.106846+00:00",
+    "2695678": "2026-11-17T13:33:21.055612+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
