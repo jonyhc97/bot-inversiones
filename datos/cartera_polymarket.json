@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 495.767084,
+  "efectivo": 474.153516,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -33,7 +33,7 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.21,
+      "precio_actual": 0.19,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
@@ -57,8 +57,8 @@
       "cantidad": 73.29193439144883,
       "precio_entrada": 0.608,
       "costo": 44.56149611000089,
-      "precio_actual": 0.624,
-      "precio_max": 0.624,
+      "precio_actual": 0.64,
+      "precio_max": 0.64,
       "fecha_entrada": "2026-11-16 09:06 UTC",
       "tema": "Tasas Fed"
     },
@@ -69,7 +69,7 @@
       "cantidad": 266.47560538853327,
       "precio_entrada": 0.168,
       "costo": 44.76790170527359,
-      "precio_actual": 0.144,
+      "precio_actual": 0.147,
       "precio_max": 0.168,
       "fecha_entrada": "2026-11-16 11:39 UTC",
       "tema": null
@@ -81,21 +81,21 @@
       "cantidad": 56.745672558308534,
       "precio_entrada": 0.83,
       "costo": 47.09890822339608,
-      "precio_actual": 0.8,
+      "precio_actual": 0.81,
       "precio_max": 0.83,
       "fecha_entrada": "2026-11-16 19:19 UTC",
       "tema": null
     },
-    "6427837": {
-      "id": "6427837",
-      "nombre": "US imposes new sanctions on China by November 30, 2026?",
-      "lado": "YES",
-      "cantidad": 53.43066960991282,
-      "precio_entrada": 0.879,
-      "costo": 46.96555858711337,
-      "precio_actual": 0.853,
-      "precio_max": 0.879,
-      "fecha_entrada": "2026-11-16 21:06 UTC",
+    "5336561": {
+      "id": "5336561",
+      "nombre": "Will PP win the most seats in the 2026 Spanish general election?",
+      "lado": "NO",
+      "cantidad": 182.62947564993,
+      "precio_entrada": 0.25,
+      "costo": 45.6573689124825,
+      "precio_actual": 0.25,
+      "precio_max": 0.25,
+      "fecha_entrada": "2026-11-17 01:34 UTC",
       "tema": null
     }
   },
@@ -115,7 +115,8 @@
     "2293877": "2026-11-16T15:28:22.858414+00:00",
     "666593": "2026-11-16T17:31:26.410838+00:00",
     "tema:Trump": "2026-11-16T17:31:23.523863+00:00",
-    "1383905": "2026-11-16T21:06:31.853183+00:00"
+    "1383905": "2026-11-16T21:06:31.853183+00:00",
+    "6427837": "2026-11-17T01:34:56.106846+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
