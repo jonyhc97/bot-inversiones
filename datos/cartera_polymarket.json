@@ -57,7 +57,7 @@
       "cantidad": 73.29193439144883,
       "precio_entrada": 0.608,
       "costo": 44.56149611000089,
-      "precio_actual": 0.624,
+      "precio_actual": 0.615,
       "precio_max": 0.64,
       "fecha_entrada": "2026-11-16 09:06 UTC",
       "tema": "Tasas Fed"
@@ -81,7 +81,7 @@
       "cantidad": 56.745672558308534,
       "precio_entrada": 0.83,
       "costo": 47.09890822339608,
-      "precio_actual": 0.8,
+      "precio_actual": 0.81,
       "precio_max": 0.83,
       "fecha_entrada": "2026-11-16 19:19 UTC",
       "tema": null
