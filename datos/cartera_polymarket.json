@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 456.815375,
+  "efectivo": 459.575282,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.83,
+      "precio_actual": 0.831,
       "precio_max": 0.837,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -86,16 +86,16 @@
       "fecha_entrada": "2026-11-17 01:34 UTC",
       "tema": null
     },
-    "1571985": {
-      "id": "1571985",
-      "nombre": "Will Predict.fun launch a token by December 31, 2026?",
+    "6910695": {
+      "id": "6910695",
+      "nombre": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in November?",
       "lado": "NO",
-      "cantidad": 227.83866189211832,
-      "precio_entrada": 0.19899999999999995,
-      "costo": 45.339893716531535,
-      "precio_actual": 0.22899999999999998,
-      "precio_max": 0.22899999999999998,
-      "fecha_entrada": "2026-11-18 01:40 UTC",
+      "cantidad": 65.67253664205245,
+      "precio_entrada": 0.69,
+      "costo": 45.314050283016186,
+      "precio_actual": 0.69,
+      "precio_max": 0.69,
+      "fecha_entrada": "2026-11-18 09:23 UTC",
       "tema": null
     }
   },
@@ -117,7 +117,8 @@
     "1383905": "2026-11-16T21:06:31.853183+00:00",
     "6427837": "2026-11-17T01:34:56.106846+00:00",
     "2695678": "2026-11-17T13:33:21.055612+00:00",
-    "5407575": "2026-11-18T01:40:22.467308+00:00"
+    "5407575": "2026-11-18T01:40:22.467308+00:00",
+    "1571985": "2026-11-18T09:23:23.445658+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
