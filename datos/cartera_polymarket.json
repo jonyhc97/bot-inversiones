@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 459.575282,
+  "efectivo": 450.730337,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -33,7 +33,7 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.21,
+      "precio_actual": 0.2,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
@@ -45,7 +45,7 @@
       "cantidad": 71.72591665227523,
       "precio_entrada": 0.62,
       "costo": 44.47006832441065,
-      "precio_actual": 0.63,
+      "precio_actual": 0.61,
       "precio_max": 0.63,
       "fecha_entrada": "2026-11-16 01:46 UTC",
       "tema": "Tasas Fed"
@@ -69,21 +69,9 @@
       "cantidad": 56.745672558308534,
       "precio_entrada": 0.83,
       "costo": 47.09890822339608,
-      "precio_actual": 0.8200000000000001,
+      "precio_actual": 0.8,
       "precio_max": 0.83,
       "fecha_entrada": "2026-11-16 19:19 UTC",
-      "tema": null
-    },
-    "5336561": {
-      "id": "5336561",
-      "nombre": "Will PP win the most seats in the 2026 Spanish general election?",
-      "lado": "NO",
-      "cantidad": 182.62947564993,
-      "precio_entrada": 0.25,
-      "costo": 45.6573689124825,
-      "precio_actual": 0.21999999999999997,
-      "precio_max": 0.25,
-      "fecha_entrada": "2026-11-17 01:34 UTC",
       "tema": null
     },
     "6910695": {
@@ -93,9 +81,21 @@
       "cantidad": 65.67253664205245,
       "precio_entrada": 0.69,
       "costo": 45.314050283016186,
-      "precio_actual": 0.6699999999999999,
-      "precio_max": 0.69,
+      "precio_actual": 0.78,
+      "precio_max": 0.78,
       "fecha_entrada": "2026-11-18 09:23 UTC",
+      "tema": null
+    },
+    "6327024": {
+      "id": "6327024",
+      "nombre": "Will Harry Kane win the 2026 BBC Sports Personality of the Year award?",
+      "lado": "YES",
+      "cantidad": 52.15039089753923,
+      "precio_entrada": 0.87,
+      "costo": 45.37084008085913,
+      "precio_actual": 0.87,
+      "precio_max": 0.87,
+      "fecha_entrada": "2026-11-18 17:22 UTC",
       "tema": null
     }
   },
@@ -103,7 +103,6 @@
     "6507425": "2026-11-15T10:59:56.921114+00:00",
     "701501": "2026-11-15T13:15:30.400300+00:00",
     "2872613": "2026-11-15T16:57:48.093551+00:00",
-    "3013350": "2026-11-15T20:56:40.551607+00:00",
     "tema:Cripto": "2026-11-15T22:55:03.442792+00:00",
     "3128768": "2026-11-15T22:55:06.672914+00:00",
     "tema:Medio Oriente": "2026-11-15T22:55:03.442792+00:00",
@@ -118,7 +117,8 @@
     "6427837": "2026-11-17T01:34:56.106846+00:00",
     "2695678": "2026-11-17T13:33:21.055612+00:00",
     "5407575": "2026-11-18T01:40:22.467308+00:00",
-    "1571985": "2026-11-18T09:23:23.445658+00:00"
+    "1571985": "2026-11-18T09:23:23.445658+00:00",
+    "5336561": "2026-11-18T17:22:06.107691+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
