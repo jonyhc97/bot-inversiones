@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 450.730337,
+  "efectivo": 449.323795,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -33,7 +33,7 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.2,
+      "precio_actual": 0.19,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
@@ -50,18 +50,6 @@
       "fecha_entrada": "2026-11-16 01:46 UTC",
       "tema": "Tasas Fed"
     },
-    "5154351": {
-      "id": "5154351",
-      "nombre": "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?",
-      "lado": "YES",
-      "cantidad": 73.29193439144883,
-      "precio_entrada": 0.608,
-      "costo": 44.56149611000089,
-      "precio_actual": 0.596,
-      "precio_max": 0.64,
-      "fecha_entrada": "2026-11-16 09:06 UTC",
-      "tema": "Tasas Fed"
-    },
     "5787490": {
       "id": "5787490",
       "nombre": "Next White House Press Secretary announced by November 30, 2026?",
@@ -69,8 +57,8 @@
       "cantidad": 56.745672558308534,
       "precio_entrada": 0.83,
       "costo": 47.09890822339608,
-      "precio_actual": 0.81,
-      "precio_max": 0.83,
+      "precio_actual": 0.85,
+      "precio_max": 0.85,
       "fecha_entrada": "2026-11-16 19:19 UTC",
       "tema": null
     },
@@ -81,7 +69,7 @@
       "cantidad": 65.67253664205245,
       "precio_entrada": 0.69,
       "costo": 45.314050283016186,
-      "precio_actual": 0.71,
+      "precio_actual": 0.7,
       "precio_max": 0.78,
       "fecha_entrada": "2026-11-18 09:23 UTC",
       "tema": null
@@ -97,13 +85,24 @@
       "precio_max": 0.87,
       "fecha_entrada": "2026-11-18 17:22 UTC",
       "tema": null
+    },
+    "3013350": {
+      "id": "3013350",
+      "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "lado": "YES",
+      "cantidad": 64.20278661740554,
+      "precio_entrada": 0.7,
+      "costo": 44.941950632183875,
+      "precio_actual": 0.7,
+      "precio_max": 0.7,
+      "fecha_entrada": "2026-11-19 11:17 UTC",
+      "tema": "Cripto"
     }
   },
   "vendidos": {
     "6507425": "2026-11-15T10:59:56.921114+00:00",
     "701501": "2026-11-15T13:15:30.400300+00:00",
     "2872613": "2026-11-15T16:57:48.093551+00:00",
-    "tema:Cripto": "2026-11-15T22:55:03.442792+00:00",
     "3128768": "2026-11-15T22:55:06.672914+00:00",
     "tema:Medio Oriente": "2026-11-15T22:55:03.442792+00:00",
     "701552": "2026-11-15T22:55:06.673159+00:00",
@@ -118,7 +117,9 @@
     "2695678": "2026-11-17T13:33:21.055612+00:00",
     "5407575": "2026-11-18T01:40:22.467308+00:00",
     "1571985": "2026-11-18T09:23:23.445658+00:00",
-    "5336561": "2026-11-18T17:22:06.107691+00:00"
+    "5336561": "2026-11-18T17:22:06.107691+00:00",
+    "5154351": "2026-11-19T11:17:23.417672+00:00",
+    "tema:Tasas Fed": "2026-11-19T11:17:20.222344+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
