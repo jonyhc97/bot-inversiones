@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 445.438009,
+  "efectivo": 443.846802,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.83,
+      "precio_actual": 0.829,
       "precio_max": 0.837,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -33,7 +33,7 @@
       "cantidad": 206.43349749363105,
       "precio_entrada": 0.22,
       "costo": 45.41536944859883,
-      "precio_actual": 0.19,
+      "precio_actual": 0.2,
       "precio_max": 0.22,
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
@@ -62,18 +62,6 @@
       "fecha_entrada": "2026-11-16 19:19 UTC",
       "tema": null
     },
-    "6327024": {
-      "id": "6327024",
-      "nombre": "Will Harry Kane win the 2026 BBC Sports Personality of the Year award?",
-      "lado": "YES",
-      "cantidad": 52.15039089753923,
-      "precio_entrada": 0.87,
-      "costo": 45.37084008085913,
-      "precio_actual": 0.83,
-      "precio_max": 0.87,
-      "fecha_entrada": "2026-11-18 17:22 UTC",
-      "tema": null
-    },
     "3013350": {
       "id": "3013350",
       "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
@@ -81,8 +69,8 @@
       "cantidad": 64.20278661740554,
       "precio_entrada": 0.7,
       "costo": 44.941950632183875,
-      "precio_actual": 0.69,
-      "precio_max": 0.7,
+      "precio_actual": 0.76,
+      "precio_max": 0.76,
       "fecha_entrada": "2026-11-19 11:17 UTC",
       "tema": "Cripto"
     },
@@ -93,10 +81,22 @@
       "cantidad": 96.96251973683513,
       "precio_entrada": 0.46,
       "costo": 44.60275907894416,
-      "precio_actual": 0.46,
+      "precio_actual": 0.45,
       "precio_max": 0.46,
       "fecha_entrada": "2026-11-19 15:17 UTC",
       "tema": null
+    },
+    "6507388": {
+      "id": "6507388",
+      "nombre": "Will Bitcoin dip to $60,000 in November?",
+      "lado": "YES",
+      "cantidad": 71.23179603098554,
+      "precio_entrada": 0.63,
+      "costo": 44.876031499520884,
+      "precio_actual": 0.63,
+      "precio_max": 0.63,
+      "fecha_entrada": "2026-11-19 17:21 UTC",
+      "tema": "Cripto"
     }
   },
   "vendidos": {
@@ -120,7 +120,8 @@
     "5336561": "2026-11-18T17:22:06.107691+00:00",
     "5154351": "2026-11-19T11:17:23.417672+00:00",
     "tema:Tasas Fed": "2026-11-19T11:17:20.222344+00:00",
-    "6910695": "2026-11-19T15:17:07.185707+00:00"
+    "6910695": "2026-11-19T15:17:07.185707+00:00",
+    "6327024": "2026-11-19T17:21:38.894318+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
