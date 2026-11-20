@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 444.989128,
+  "efectivo": 462.895597,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.866,
+      "precio_actual": 0.86,
       "precio_max": 0.885,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -38,18 +38,6 @@
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
     },
-    "3013350": {
-      "id": "3013350",
-      "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "lado": "YES",
-      "cantidad": 64.20278661740554,
-      "precio_entrada": 0.7,
-      "costo": 44.941950632183875,
-      "precio_actual": 0.83,
-      "precio_max": 0.86,
-      "fecha_entrada": "2026-11-19 11:17 UTC",
-      "tema": "Cripto"
-    },
     "5622719": {
       "id": "5622719",
       "nombre": "Will voter turnout be 70% or higher in the 2026 Spanish general election?",
@@ -69,7 +57,7 @@
       "cantidad": 55.31858888339151,
       "precio_entrada": 0.8200000000000001,
       "costo": 45.36124288438104,
-      "precio_actual": 0.81,
+      "precio_actual": 0.85,
       "precio_max": 0.86,
       "fecha_entrada": "2026-11-20 11:18 UTC",
       "tema": null
@@ -81,8 +69,8 @@
       "cantidad": 59.07046034120005,
       "precio_entrada": 0.77,
       "costo": 45.48425446272404,
-      "precio_actual": 0.77,
-      "precio_max": 0.77,
+      "precio_actual": 0.78,
+      "precio_max": 0.78,
       "fecha_entrada": "2026-11-20 15:15 UTC",
       "tema": null
     },
@@ -93,9 +81,21 @@
       "cantidad": 51.105903890701164,
       "precio_entrada": 0.89,
       "costo": 45.48425446272404,
-      "precio_actual": 0.89,
-      "precio_max": 0.89,
+      "precio_actual": 0.9299999999999999,
+      "precio_max": 0.9299999999999999,
       "fecha_entrada": "2026-11-20 15:15 UTC",
+      "tema": "Cripto"
+    },
+    "6507390": {
+      "id": "6507390",
+      "nombre": "Will Bitcoin dip to $57,500 in November?",
+      "lado": "YES",
+      "cantidad": 68.08853487352064,
+      "precio_entrada": 0.679,
+      "costo": 46.23211517912052,
+      "precio_actual": 0.679,
+      "precio_max": 0.679,
+      "fecha_entrada": "2026-11-20 17:15 UTC",
       "tema": "Cripto"
     }
   },
@@ -125,7 +125,8 @@
     "5787490": "2026-11-20T11:18:24.600369+00:00",
     "3215013": "2026-11-20T13:33:43.615606+00:00",
     "6507388": "2026-11-20T15:15:51.322738+00:00",
-    "3222415": "2026-11-20T15:15:51.322933+00:00"
+    "3222415": "2026-11-20T15:15:51.322933+00:00",
+    "3013350": "2026-11-20T17:15:36.562481+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
