@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 445.017011,
+  "efectivo": 440.972339,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -38,18 +38,6 @@
       "fecha_entrada": "2026-11-15 22:55 UTC",
       "tema": null
     },
-    "3215013": {
-      "id": "3215013",
-      "nombre": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "lado": "YES",
-      "cantidad": 71.72591665227523,
-      "precio_entrada": 0.62,
-      "costo": 44.47006832441065,
-      "precio_actual": 0.61,
-      "precio_max": 0.63,
-      "fecha_entrada": "2026-11-16 01:46 UTC",
-      "tema": "Tasas Fed"
-    },
     "3013350": {
       "id": "3013350",
       "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
@@ -57,7 +45,7 @@
       "cantidad": 64.20278661740554,
       "precio_entrada": 0.7,
       "costo": 44.941950632183875,
-      "precio_actual": 0.82,
+      "precio_actual": 0.83,
       "precio_max": 0.86,
       "fecha_entrada": "2026-11-19 11:17 UTC",
       "tema": "Cripto"
@@ -81,8 +69,8 @@
       "cantidad": 71.23179603098554,
       "precio_entrada": 0.63,
       "costo": 44.876031499520884,
-      "precio_actual": 0.67,
-      "precio_max": 0.73,
+      "precio_actual": 0.74,
+      "precio_max": 0.74,
       "fecha_entrada": "2026-11-19 17:21 UTC",
       "tema": "Cripto"
     },
@@ -93,9 +81,21 @@
       "cantidad": 55.31858888339151,
       "precio_entrada": 0.8200000000000001,
       "costo": 45.36124288438104,
-      "precio_actual": 0.8200000000000001,
-      "precio_max": 0.8200000000000001,
+      "precio_actual": 0.86,
+      "precio_max": 0.86,
       "fecha_entrada": "2026-11-20 11:18 UTC",
+      "tema": null
+    },
+    "3222415": {
+      "id": "3222415",
+      "nombre": "Will Gold (GC) dip to (LOW) $3,500 by end of December?",
+      "lado": "YES",
+      "cantidad": 57.7793720074873,
+      "precio_entrada": 0.79,
+      "costo": 45.64570388591497,
+      "precio_actual": 0.79,
+      "precio_max": 0.79,
+      "fecha_entrada": "2026-11-20 13:33 UTC",
       "tema": null
     }
   },
@@ -119,10 +119,11 @@
     "1571985": "2026-11-18T09:23:23.445658+00:00",
     "5336561": "2026-11-18T17:22:06.107691+00:00",
     "5154351": "2026-11-19T11:17:23.417672+00:00",
-    "tema:Tasas Fed": "2026-11-19T11:17:20.222344+00:00",
+    "tema:Tasas Fed": "2026-11-20T13:33:40.863578+00:00",
     "6910695": "2026-11-19T15:17:07.185707+00:00",
     "6327024": "2026-11-19T17:21:38.894318+00:00",
-    "5787490": "2026-11-20T11:18:24.600369+00:00"
+    "5787490": "2026-11-20T11:18:24.600369+00:00",
+    "3215013": "2026-11-20T13:33:43.615606+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
