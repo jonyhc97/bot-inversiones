@@ -55,3 +55,7 @@
 2026-11-20 11:18 UTC,COMPRA,6600819,Will Anthropic's valuation hit (HIGH) $1.575T by November 30?,NO,55.318589,0.82,45.36,0.0,"Probabilidad bajando: -44.5 pts en 24h, -39.0 pts en 7 dias"
 2026-11-20 13:33 UTC,VENTA,3215013,Will the Fed increase interest rates by 25 bps after the January 2027 meeting?,YES,71.725917,0.58,41.6,-2.87,CAMBIO DE TENDENCIA
 2026-11-20 13:33 UTC,COMPRA,3222415,"Will Gold (GC) dip to (LOW) $3,500 by end of December?",YES,57.779372,0.79,45.65,0.0,"Probabilidad subiendo: +41.5 pts en 24h, +58.5 pts en 7 dias"
+2026-11-20 15:15 UTC,VENTA,6507388,"Will Bitcoin dip to $60,000 in November?",YES,71.231796,0.79,56.27,11.4,TOMA DE GANANCIA (+25.4%)
+2026-11-20 15:15 UTC,VENTA,3222415,"Will Gold (GC) dip to (LOW) $3,500 by end of December?",YES,57.779372,0.67,38.71,-6.93,STOP LOSS (-15.2%)
+2026-11-20 15:15 UTC,COMPRA,2299955,Will Anthropic's valuation hit (HIGH) $1.75T by December 31?,NO,59.07046,0.77,45.48,0.0,"Probabilidad bajando: -33.5 pts en 24h, -20.0 pts en 7 dias"
+2026-11-20 15:15 UTC,COMPRA,7018707,"Will Bitcoin reach $70,000 in November?",NO,51.105904,0.89,45.48,0.0,"Probabilidad bajando: -5.0 pts en 24h, -73.0 pts en 7 dias"

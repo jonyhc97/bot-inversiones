@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 440.972339,
+  "efectivo": 444.989128,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -57,22 +57,10 @@
       "cantidad": 96.96251973683513,
       "precio_entrada": 0.46,
       "costo": 44.60275907894416,
-      "precio_actual": 0.45,
+      "precio_actual": 0.48,
       "precio_max": 0.49,
       "fecha_entrada": "2026-11-19 15:17 UTC",
       "tema": null
-    },
-    "6507388": {
-      "id": "6507388",
-      "nombre": "Will Bitcoin dip to $60,000 in November?",
-      "lado": "YES",
-      "cantidad": 71.23179603098554,
-      "precio_entrada": 0.63,
-      "costo": 44.876031499520884,
-      "precio_actual": 0.74,
-      "precio_max": 0.74,
-      "fecha_entrada": "2026-11-19 17:21 UTC",
-      "tema": "Cripto"
     },
     "6600819": {
       "id": "6600819",
@@ -81,22 +69,34 @@
       "cantidad": 55.31858888339151,
       "precio_entrada": 0.8200000000000001,
       "costo": 45.36124288438104,
-      "precio_actual": 0.86,
+      "precio_actual": 0.81,
       "precio_max": 0.86,
       "fecha_entrada": "2026-11-20 11:18 UTC",
       "tema": null
     },
-    "3222415": {
-      "id": "3222415",
-      "nombre": "Will Gold (GC) dip to (LOW) $3,500 by end of December?",
-      "lado": "YES",
-      "cantidad": 57.7793720074873,
-      "precio_entrada": 0.79,
-      "costo": 45.64570388591497,
-      "precio_actual": 0.79,
-      "precio_max": 0.79,
-      "fecha_entrada": "2026-11-20 13:33 UTC",
+    "2299955": {
+      "id": "2299955",
+      "nombre": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+      "lado": "NO",
+      "cantidad": 59.07046034120005,
+      "precio_entrada": 0.77,
+      "costo": 45.48425446272404,
+      "precio_actual": 0.77,
+      "precio_max": 0.77,
+      "fecha_entrada": "2026-11-20 15:15 UTC",
       "tema": null
+    },
+    "7018707": {
+      "id": "7018707",
+      "nombre": "Will Bitcoin reach $70,000 in November?",
+      "lado": "NO",
+      "cantidad": 51.105903890701164,
+      "precio_entrada": 0.89,
+      "costo": 45.48425446272404,
+      "precio_actual": 0.89,
+      "precio_max": 0.89,
+      "fecha_entrada": "2026-11-20 15:15 UTC",
+      "tema": "Cripto"
     }
   },
   "vendidos": {
@@ -123,7 +123,9 @@
     "6910695": "2026-11-19T15:17:07.185707+00:00",
     "6327024": "2026-11-19T17:21:38.894318+00:00",
     "5787490": "2026-11-20T11:18:24.600369+00:00",
-    "3215013": "2026-11-20T13:33:43.615606+00:00"
+    "3215013": "2026-11-20T13:33:43.615606+00:00",
+    "6507388": "2026-11-20T15:15:51.322738+00:00",
+    "3222415": "2026-11-20T15:15:51.322933+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
