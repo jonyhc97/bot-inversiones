@@ -9,8 +9,8 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.869,
-      "precio_max": 0.876,
+      "precio_actual": 0.881,
+      "precio_max": 0.881,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
     },
@@ -69,7 +69,7 @@
       "cantidad": 64.20278661740554,
       "precio_entrada": 0.7,
       "costo": 44.941950632183875,
-      "precio_actual": 0.81,
+      "precio_actual": 0.78,
       "precio_max": 0.81,
       "fecha_entrada": "2026-11-19 11:17 UTC",
       "tema": "Cripto"
@@ -93,7 +93,7 @@
       "cantidad": 71.23179603098554,
       "precio_entrada": 0.63,
       "costo": 44.876031499520884,
-      "precio_actual": 0.64,
+      "precio_actual": 0.6,
       "precio_max": 0.66,
       "fecha_entrada": "2026-11-19 17:21 UTC",
       "tema": "Cripto"
