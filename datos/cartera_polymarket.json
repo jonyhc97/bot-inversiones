@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 443.846802,
+  "efectivo": 445.017011,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -50,18 +50,6 @@
       "fecha_entrada": "2026-11-16 01:46 UTC",
       "tema": "Tasas Fed"
     },
-    "5787490": {
-      "id": "5787490",
-      "nombre": "Next White House Press Secretary announced by November 30, 2026?",
-      "lado": "NO",
-      "cantidad": 56.745672558308534,
-      "precio_entrada": 0.83,
-      "costo": 47.09890822339608,
-      "precio_actual": 0.8200000000000001,
-      "precio_max": 0.85,
-      "fecha_entrada": "2026-11-16 19:19 UTC",
-      "tema": null
-    },
     "3013350": {
       "id": "3013350",
       "nombre": "Will Bitcoin dip to $60,000 by December 31, 2026?",
@@ -69,7 +57,7 @@
       "cantidad": 64.20278661740554,
       "precio_entrada": 0.7,
       "costo": 44.941950632183875,
-      "precio_actual": 0.81,
+      "precio_actual": 0.82,
       "precio_max": 0.86,
       "fecha_entrada": "2026-11-19 11:17 UTC",
       "tema": "Cripto"
@@ -93,10 +81,22 @@
       "cantidad": 71.23179603098554,
       "precio_entrada": 0.63,
       "costo": 44.876031499520884,
-      "precio_actual": 0.7,
+      "precio_actual": 0.67,
       "precio_max": 0.73,
       "fecha_entrada": "2026-11-19 17:21 UTC",
       "tema": "Cripto"
+    },
+    "6600819": {
+      "id": "6600819",
+      "nombre": "Will Anthropic's valuation hit (HIGH) $1.575T by November 30?",
+      "lado": "NO",
+      "cantidad": 55.31858888339151,
+      "precio_entrada": 0.8200000000000001,
+      "costo": 45.36124288438104,
+      "precio_actual": 0.8200000000000001,
+      "precio_max": 0.8200000000000001,
+      "fecha_entrada": "2026-11-20 11:18 UTC",
+      "tema": null
     }
   },
   "vendidos": {
@@ -121,7 +121,8 @@
     "5154351": "2026-11-19T11:17:23.417672+00:00",
     "tema:Tasas Fed": "2026-11-19T11:17:20.222344+00:00",
     "6910695": "2026-11-19T15:17:07.185707+00:00",
-    "6327024": "2026-11-19T17:21:38.894318+00:00"
+    "6327024": "2026-11-19T17:21:38.894318+00:00",
+    "5787490": "2026-11-20T11:18:24.600369+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
