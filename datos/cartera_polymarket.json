@@ -45,7 +45,7 @@
       "cantidad": 66.49789957433559,
       "precio_entrada": 0.695,
       "costo": 46.216040204163235,
-      "precio_actual": 0.636,
+      "precio_actual": 0.62,
       "precio_max": 0.695,
       "fecha_entrada": "2026-11-21 13:20 UTC",
       "tema": null
@@ -57,7 +57,7 @@
       "cantidad": 58.12274384206659,
       "precio_entrada": 0.79,
       "costo": 45.91696763523261,
-      "precio_actual": 0.8,
+      "precio_actual": 0.74,
       "precio_max": 0.8,
       "fecha_entrada": "2026-11-21 15:05 UTC",
       "tema": null
@@ -81,7 +81,7 @@
       "cantidad": 68.21736345262417,
       "precio_entrada": 0.67,
       "costo": 45.70563351325819,
-      "precio_actual": 0.67,
+      "precio_actual": 0.64,
       "precio_max": 0.67,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -93,7 +93,7 @@
       "cantidad": 135.22376779070473,
       "precio_entrada": 0.33799999999999997,
       "costo": 45.70563351325819,
-      "precio_actual": 0.33799999999999997,
+      "precio_actual": 0.33699999999999997,
       "precio_max": 0.33799999999999997,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
