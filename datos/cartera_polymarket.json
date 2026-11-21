@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 465.98836,
+  "efectivo": 458.716402,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.866,
+      "precio_actual": 0.867,
       "precio_max": 0.885,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -57,7 +57,7 @@
       "cantidad": 59.07046034120005,
       "precio_entrada": 0.77,
       "costo": 45.48425446272404,
-      "precio_actual": 0.79,
+      "precio_actual": 0.77,
       "precio_max": 0.79,
       "fecha_entrada": "2026-11-20 15:15 UTC",
       "tema": null
@@ -69,7 +69,7 @@
       "cantidad": 51.105903890701164,
       "precio_entrada": 0.89,
       "costo": 45.48425446272404,
-      "precio_actual": 0.92,
+      "precio_actual": 0.91,
       "precio_max": 0.95,
       "fecha_entrada": "2026-11-20 15:15 UTC",
       "tema": "Cripto"
@@ -81,21 +81,21 @@
       "cantidad": 63.38043978287572,
       "precio_entrada": 0.74,
       "costo": 46.90152543932803,
-      "precio_actual": 0.79,
+      "precio_actual": 0.6699999999999999,
       "precio_max": 0.86,
       "fecha_entrada": "2026-11-20 19:23 UTC",
       "tema": null
     },
-    "4383153": {
-      "id": "4383153",
-      "nombre": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+    "691340": {
+      "id": "691340",
+      "nombre": "AI bubble burst in 2026?",
       "lado": "YES",
-      "cantidad": 58.12549613880681,
-      "precio_entrada": 0.81,
-      "costo": 47.08165187243352,
-      "precio_actual": 0.81,
-      "precio_max": 0.81,
-      "fecha_entrada": "2026-11-21 11:05 UTC",
+      "cantidad": 66.49789957433559,
+      "precio_entrada": 0.695,
+      "costo": 46.216040204163235,
+      "precio_actual": 0.695,
+      "precio_max": 0.695,
+      "fecha_entrada": "2026-11-21 13:20 UTC",
       "tema": null
     }
   },
@@ -128,7 +128,8 @@
     "3222415": "2026-11-20T15:15:51.322933+00:00",
     "3013350": "2026-11-20T17:15:36.562481+00:00",
     "6507390": "2026-11-20T19:23:49.556426+00:00",
-    "4451523": "2026-11-21T11:05:19.265759+00:00"
+    "4451523": "2026-11-21T11:05:19.265759+00:00",
+    "4383153": "2026-11-21T13:20:24.472597+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
