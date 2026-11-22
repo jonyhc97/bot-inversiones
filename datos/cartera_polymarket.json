@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 477.140044,
+  "efectivo": 472.423013,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -33,7 +33,7 @@
       "cantidad": 68.21736345262417,
       "precio_entrada": 0.67,
       "costo": 45.70563351325819,
-      "precio_actual": 0.65,
+      "precio_actual": 0.69,
       "precio_max": 0.72,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -45,7 +45,7 @@
       "cantidad": 135.22376779070473,
       "precio_entrada": 0.33799999999999997,
       "costo": 45.70563351325819,
-      "precio_actual": 0.388,
+      "precio_actual": 0.391,
       "precio_max": 0.41900000000000004,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -86,16 +86,16 @@
       "fecha_entrada": "2026-11-22 13:18 UTC",
       "tema": null
     },
-    "4418549": {
-      "id": "4418549",
-      "nombre": "Will AI solve the Riemann Hypothesis in 2026?",
-      "lado": "YES",
-      "cantidad": 61.57996603512709,
-      "precio_entrada": 0.75,
-      "costo": 46.18497452634532,
-      "precio_actual": 0.7,
-      "precio_max": 0.75,
-      "fecha_entrada": "2026-11-22 19:11 UTC",
+    "1796706": {
+      "id": "1796706",
+      "nombre": "Howard Lutnick out as Secretary of Commerce by December 31?",
+      "lado": "NO",
+      "cantidad": 58.196973059364225,
+      "precio_entrada": 0.79,
+      "costo": 45.97560871689774,
+      "precio_actual": 0.79,
+      "precio_max": 0.79,
+      "fecha_entrada": "2026-11-22 22:59 UTC",
       "tema": null
     }
   },
@@ -135,7 +135,8 @@
     "6831496": "2026-11-22T07:32:46.540587+00:00",
     "tema:Medio Oriente": "2026-11-22T07:32:43.461653+00:00",
     "6997774": "2026-11-22T13:18:46.705030+00:00",
-    "5622719": "2026-11-22T19:11:54.542535+00:00"
+    "5622719": "2026-11-22T19:11:54.542535+00:00",
+    "4418549": "2026-11-22T22:59:56.998862+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
