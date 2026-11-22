@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 486.051394,
+  "efectivo": 482.60076,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -21,7 +21,7 @@
       "cantidad": 96.96251973683513,
       "precio_entrada": 0.46,
       "costo": 44.60275907894416,
-      "precio_actual": 0.44,
+      "precio_actual": 0.47,
       "precio_max": 0.52,
       "fecha_entrada": "2026-11-19 15:17 UTC",
       "tema": null
@@ -36,18 +36,6 @@
       "precio_actual": 0.92,
       "precio_max": 0.9299999999999999,
       "fecha_entrada": "2026-11-20 11:18 UTC",
-      "tema": null
-    },
-    "6997774": {
-      "id": "6997774",
-      "nombre": "Fourth Jensen Huang affair reported by December 31?",
-      "lado": "NO",
-      "cantidad": 58.12274384206659,
-      "precio_entrada": 0.79,
-      "costo": 45.91696763523261,
-      "precio_actual": 0.74,
-      "precio_max": 0.8,
-      "fecha_entrada": "2026-11-21 15:05 UTC",
       "tema": null
     },
     "4412322": {
@@ -81,8 +69,8 @@
       "cantidad": 75.80471656663131,
       "precio_entrada": 0.61,
       "costo": 46.240877105645104,
-      "precio_actual": 0.69,
-      "precio_max": 0.7,
+      "precio_actual": 0.71,
+      "precio_max": 0.71,
       "fecha_entrada": "2026-11-22 05:16 UTC",
       "tema": null
     },
@@ -93,9 +81,21 @@
       "cantidad": 65.64673033148496,
       "precio_entrada": 0.71,
       "costo": 46.60917853535432,
-      "precio_actual": 0.69,
+      "precio_actual": 0.7,
       "precio_max": 0.71,
       "fecha_entrada": "2026-11-22 07:32 UTC",
+      "tema": null
+    },
+    "5784291": {
+      "id": "5784291",
+      "nombre": "Next White House Press Secretary announced by December 31, 2026?",
+      "lado": "NO",
+      "cantidad": 108.04991680397868,
+      "precio_entrada": 0.43000000000000005,
+      "costo": 46.461464225710834,
+      "precio_actual": 0.43000000000000005,
+      "precio_max": 0.43000000000000005,
+      "fecha_entrada": "2026-11-22 13:18 UTC",
       "tema": null
     }
   },
@@ -133,7 +133,8 @@
     "691340": "2026-11-21T20:58:59.829746+00:00",
     "6117510": "2026-11-22T05:16:50.433291+00:00",
     "6831496": "2026-11-22T07:32:46.540587+00:00",
-    "tema:Medio Oriente": "2026-11-22T07:32:43.461653+00:00"
+    "tema:Medio Oriente": "2026-11-22T07:32:43.461653+00:00",
+    "6997774": "2026-11-22T13:18:46.705030+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
