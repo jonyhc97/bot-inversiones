@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 483.172515,
+  "efectivo": 494.552931,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -21,7 +21,7 @@
       "cantidad": 96.96251973683513,
       "precio_entrada": 0.46,
       "costo": 44.60275907894416,
-      "precio_actual": 0.52,
+      "precio_actual": 0.5,
       "precio_max": 0.52,
       "fecha_entrada": "2026-11-19 15:17 UTC",
       "tema": null
@@ -33,7 +33,7 @@
       "cantidad": 55.31858888339151,
       "precio_entrada": 0.8200000000000001,
       "costo": 45.36124288438104,
-      "precio_actual": 0.9299999999999999,
+      "precio_actual": 0.92,
       "precio_max": 0.9299999999999999,
       "fecha_entrada": "2026-11-20 11:18 UTC",
       "tema": null
@@ -50,18 +50,6 @@
       "fecha_entrada": "2026-11-21 15:05 UTC",
       "tema": null
     },
-    "6117510": {
-      "id": "6117510",
-      "nombre": "Will Max Verstappen win the 2026 F1 Las Vegas Grand Prix?",
-      "lado": "YES",
-      "cantidad": 90.03326987300511,
-      "precio_entrada": 0.51,
-      "costo": 45.91696763523261,
-      "precio_actual": 0.55,
-      "precio_max": 0.55,
-      "fecha_entrada": "2026-11-21 15:05 UTC",
-      "tema": null
-    },
     "4412322": {
       "id": "4412322",
       "nombre": "Will AI solve 1 more Millennium Prize Problem in 2026?",
@@ -69,7 +57,7 @@
       "cantidad": 68.21736345262417,
       "precio_entrada": 0.67,
       "costo": 45.70563351325819,
-      "precio_actual": 0.71,
+      "precio_actual": 0.65,
       "precio_max": 0.72,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -81,7 +69,7 @@
       "cantidad": 135.22376779070473,
       "precio_entrada": 0.33799999999999997,
       "costo": 45.70563351325819,
-      "precio_actual": 0.375,
+      "precio_actual": 0.363,
       "precio_max": 0.384,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -93,10 +81,22 @@
       "cantidad": 81.08008777236718,
       "precio_entrada": 0.56,
       "costo": 45.40484915252563,
-      "precio_actual": 0.51,
+      "precio_actual": 0.52,
       "precio_max": 0.56,
       "fecha_entrada": "2026-11-21 20:59 UTC",
       "tema": "Medio Oriente"
+    },
+    "6031068": {
+      "id": "6031068",
+      "nombre": "Will PSOE win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+      "lado": "YES",
+      "cantidad": 75.80471656663131,
+      "precio_entrada": 0.61,
+      "costo": 46.240877105645104,
+      "precio_actual": 0.61,
+      "precio_max": 0.61,
+      "fecha_entrada": "2026-11-22 05:16 UTC",
+      "tema": null
     }
   },
   "vendidos": {
@@ -130,7 +130,8 @@
     "4412321": "2026-11-21T15:05:45.628758+00:00",
     "5238391": "2026-11-21T17:03:38.845644+00:00",
     "2299955": "2026-11-21T17:03:39.092828+00:00",
-    "691340": "2026-11-21T20:58:59.829746+00:00"
+    "691340": "2026-11-21T20:58:59.829746+00:00",
+    "6117510": "2026-11-22T05:16:50.433291+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
