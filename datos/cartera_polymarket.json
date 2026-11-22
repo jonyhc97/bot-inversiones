@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 494.552931,
+  "efectivo": 486.051394,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -69,22 +69,10 @@
       "cantidad": 135.22376779070473,
       "precio_entrada": 0.33799999999999997,
       "costo": 45.70563351325819,
-      "precio_actual": 0.363,
-      "precio_max": 0.384,
+      "precio_actual": 0.397,
+      "precio_max": 0.397,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
-    },
-    "6831496": {
-      "id": "6831496",
-      "nombre": "US x Iran Effective Ceasefire by November 30?",
-      "lado": "NO",
-      "cantidad": 81.08008777236718,
-      "precio_entrada": 0.56,
-      "costo": 45.40484915252563,
-      "precio_actual": 0.52,
-      "precio_max": 0.56,
-      "fecha_entrada": "2026-11-21 20:59 UTC",
-      "tema": "Medio Oriente"
     },
     "6031068": {
       "id": "6031068",
@@ -93,9 +81,21 @@
       "cantidad": 75.80471656663131,
       "precio_entrada": 0.61,
       "costo": 46.240877105645104,
-      "precio_actual": 0.61,
-      "precio_max": 0.61,
+      "precio_actual": 0.7,
+      "precio_max": 0.7,
       "fecha_entrada": "2026-11-22 05:16 UTC",
+      "tema": null
+    },
+    "6031067": {
+      "id": "6031067",
+      "nombre": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+      "lado": "NO",
+      "cantidad": 65.64673033148496,
+      "precio_entrada": 0.71,
+      "costo": 46.60917853535432,
+      "precio_actual": 0.71,
+      "precio_max": 0.71,
+      "fecha_entrada": "2026-11-22 07:32 UTC",
       "tema": null
     }
   },
@@ -131,7 +131,9 @@
     "5238391": "2026-11-21T17:03:38.845644+00:00",
     "2299955": "2026-11-21T17:03:39.092828+00:00",
     "691340": "2026-11-21T20:58:59.829746+00:00",
-    "6117510": "2026-11-22T05:16:50.433291+00:00"
+    "6117510": "2026-11-22T05:16:50.433291+00:00",
+    "6831496": "2026-11-22T07:32:46.540587+00:00",
+    "tema:Medio Oriente": "2026-11-22T07:32:43.461653+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
