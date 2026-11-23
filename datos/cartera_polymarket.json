@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.859,
+      "precio_actual": 0.862,
       "precio_max": 0.885,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -21,8 +21,8 @@
       "cantidad": 55.31858888339151,
       "precio_entrada": 0.8200000000000001,
       "costo": 45.36124288438104,
-      "precio_actual": 0.94,
-      "precio_max": 0.94,
+      "precio_actual": 0.95,
+      "precio_max": 0.95,
       "fecha_entrada": "2026-11-20 11:18 UTC",
       "tema": null
     },
@@ -93,8 +93,8 @@
       "cantidad": 51.15692434449447,
       "precio_entrada": 0.89,
       "costo": 45.52966266660008,
-      "precio_actual": 0.89,
-      "precio_max": 0.89,
+      "precio_actual": 0.93,
+      "precio_max": 0.93,
       "fecha_entrada": "2026-11-23 21:09 UTC",
       "tema": null
     }
