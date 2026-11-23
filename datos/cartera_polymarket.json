@@ -33,7 +33,7 @@
       "cantidad": 135.22376779070473,
       "precio_entrada": 0.33799999999999997,
       "costo": 45.70563351325819,
-      "precio_actual": 0.391,
+      "precio_actual": 0.392,
       "precio_max": 0.41900000000000004,
       "fecha_entrada": "2026-11-21 17:03 UTC",
       "tema": null
@@ -93,7 +93,7 @@
       "cantidad": 73.04089802807542,
       "precio_entrada": 0.63,
       "costo": 46.01576575768751,
-      "precio_actual": 0.63,
+      "precio_actual": 0.62,
       "precio_max": 0.63,
       "fecha_entrada": "2026-11-23 01:38 UTC",
       "tema": null
