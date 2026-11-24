@@ -9,7 +9,7 @@
       "cantidad": 123.45679012345678,
       "precio_entrada": 0.81,
       "costo": 100.0,
-      "precio_actual": 0.85,
+      "precio_actual": 0.847,
       "precio_max": 0.885,
       "fecha_entrada": "2026-11-15 06:45 UTC",
       "tema": "Medio Oriente"
@@ -57,7 +57,7 @@
       "cantidad": 54.619370984824634,
       "precio_entrada": 0.8200000000000001,
       "costo": 44.7878842075562,
-      "precio_actual": 0.79,
+      "precio_actual": 0.78,
       "precio_max": 0.8200000000000001,
       "fecha_entrada": "2026-11-24 07:43 UTC",
       "tema": null
@@ -69,7 +69,7 @@
       "cantidad": 59.3539345627265,
       "precio_entrada": 0.735,
       "costo": 43.625141903603975,
-      "precio_actual": 0.735,
+      "precio_actual": 0.72,
       "precio_max": 0.735,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": null
@@ -81,7 +81,7 @@
       "cantidad": 50.143841268510315,
       "precio_entrada": 0.87,
       "costo": 43.625141903603975,
-      "precio_actual": 0.87,
+      "precio_actual": 0.84,
       "precio_max": 0.87,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": "Trump"
