@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 447.454396,
+  "efectivo": 446.68531,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -38,18 +38,6 @@
       "fecha_entrada": "2026-11-22 22:59 UTC",
       "tema": null
     },
-    "6994508": {
-      "id": "6994508",
-      "nombre": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-      "lado": "YES",
-      "cantidad": 51.15692434449447,
-      "precio_entrada": 0.89,
-      "costo": 45.52966266660008,
-      "precio_actual": 0.86,
-      "precio_max": 0.93,
-      "fecha_entrada": "2026-11-23 21:09 UTC",
-      "tema": null
-    },
     "4412321": {
       "id": "4412321",
       "nombre": "Will AI solve 0 more Millennium Prize Problems in 2026?",
@@ -57,7 +45,7 @@
       "cantidad": 54.619370984824634,
       "precio_entrada": 0.8200000000000001,
       "costo": 44.7878842075562,
-      "precio_actual": 0.75,
+      "precio_actual": 0.77,
       "precio_max": 0.8200000000000001,
       "fecha_entrada": "2026-11-24 07:43 UTC",
       "tema": null
@@ -69,7 +57,7 @@
       "cantidad": 59.3539345627265,
       "precio_entrada": 0.735,
       "costo": 43.625141903603975,
-      "precio_actual": 0.775,
+      "precio_actual": 0.751,
       "precio_max": 0.775,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": null
@@ -81,7 +69,7 @@
       "cantidad": 50.143841268510315,
       "precio_entrada": 0.87,
       "costo": 43.625141903603975,
-      "precio_actual": 0.92,
+      "precio_actual": 0.9,
       "precio_max": 0.92,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": "Trump"
@@ -93,10 +81,22 @@
       "cantidad": 90.88571229917495,
       "precio_entrada": 0.48,
       "costo": 43.625141903603975,
-      "precio_actual": 0.51,
+      "precio_actual": 0.49,
       "precio_max": 0.51,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": null
+    },
+    "701501": {
+      "id": "701501",
+      "nombre": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "lado": "YES",
+      "cantidad": 75.41534892359024,
+      "precio_entrada": 0.58,
+      "costo": 43.74090237568234,
+      "precio_actual": 0.58,
+      "precio_max": 0.58,
+      "fecha_entrada": "2026-11-24 17:19 UTC",
+      "tema": "Cripto"
     }
   },
   "vendidos": {
@@ -125,7 +125,6 @@
     "4451523": "2026-11-21T11:05:19.265759+00:00",
     "4383153": "2026-11-21T13:20:24.472597+00:00",
     "7018707": "2026-11-21T15:05:45.628563+00:00",
-    "tema:Cripto": "2026-11-21T15:05:42.104332+00:00",
     "5238391": "2026-11-21T17:03:38.845644+00:00",
     "2299955": "2026-11-21T17:03:39.092828+00:00",
     "691340": "2026-11-21T20:58:59.829746+00:00",
@@ -142,7 +141,8 @@
     "567688": "2026-11-24T07:43:09.050972+00:00",
     "6031068": "2026-11-24T09:29:54.825240+00:00",
     "6031067": "2026-11-24T09:29:55.018792+00:00",
-    "3358974": "2026-11-24T09:29:55.018985+00:00"
+    "3358974": "2026-11-24T09:29:55.018985+00:00",
+    "6994508": "2026-11-24T17:19:49.548635+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
