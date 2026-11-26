@@ -1,6 +1,6 @@
 {
   "capital_inicial": 1000.0,
-  "efectivo": 447.692529,
+  "efectivo": 438.759426,
   "posiciones": {
     "3128886": {
       "id": "3128886",
@@ -33,7 +33,7 @@
       "cantidad": 50.143841268510315,
       "precio_entrada": 0.87,
       "costo": 43.625141903603975,
-      "precio_actual": 0.91,
+      "precio_actual": 0.92,
       "precio_max": 0.92,
       "fecha_entrada": "2026-11-24 09:29 UTC",
       "tema": "Trump"
@@ -45,7 +45,7 @@
       "cantidad": 70.18630330559328,
       "precio_entrada": 0.61,
       "costo": 42.813645016411904,
-      "precio_actual": 0.5700000000000001,
+      "precio_actual": 0.61,
       "precio_max": 0.69,
       "fecha_entrada": "2026-11-25 19:17 UTC",
       "tema": null
@@ -57,7 +57,7 @@
       "cantidad": 70.18630330559328,
       "precio_entrada": 0.61,
       "costo": 42.813645016411904,
-      "precio_actual": 0.6,
+      "precio_actual": 0.58,
       "precio_max": 0.61,
       "fecha_entrada": "2026-11-25 19:17 UTC",
       "tema": null
@@ -74,18 +74,6 @@
       "fecha_entrada": "2026-11-25 21:16 UTC",
       "tema": null
     },
-    "6976265": {
-      "id": "6976265",
-      "nombre": "Will Puma Shen win the 2026 Taipei Mayoral Election by 8% or more?",
-      "lado": "YES",
-      "cantidad": 331.60458118674126,
-      "precio_entrada": 0.132,
-      "costo": 43.77180471664985,
-      "precio_actual": 0.132,
-      "precio_max": 0.132,
-      "fecha_entrada": "2026-11-25 21:16 UTC",
-      "tema": null
-    },
     "4412321": {
       "id": "4412321",
       "nombre": "Will AI solve 0 more Millennium Prize Problems in 2026?",
@@ -93,9 +81,21 @@
       "cantidad": 52.66494102976711,
       "precio_entrada": 0.8200000000000001,
       "costo": 43.18525164440903,
-      "precio_actual": 0.8200000000000001,
+      "precio_actual": 0.81,
       "precio_max": 0.8200000000000001,
       "fecha_entrada": "2026-11-26 05:28 UTC",
+      "tema": null
+    },
+    "4383153": {
+      "id": "4383153",
+      "nombre": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+      "lado": "YES",
+      "cantidad": 53.445963152216294,
+      "precio_entrada": 0.8,
+      "costo": 42.756770521773035,
+      "precio_actual": 0.8,
+      "precio_max": 0.8,
+      "fecha_entrada": "2026-11-26 07:45 UTC",
       "tema": null
     }
   },
@@ -121,7 +121,6 @@
     "3013350": "2026-11-20T17:15:36.562481+00:00",
     "6507390": "2026-11-20T19:23:49.556426+00:00",
     "4451523": "2026-11-21T11:05:19.265759+00:00",
-    "4383153": "2026-11-21T13:20:24.472597+00:00",
     "7018707": "2026-11-21T15:05:45.628563+00:00",
     "5238391": "2026-11-21T17:03:38.845644+00:00",
     "2299955": "2026-11-21T17:03:39.092828+00:00",
@@ -149,7 +148,8 @@
     "7104785": "2026-11-25T21:16:45.975172+00:00",
     "7150681": "2026-11-26T01:42:26.867592+00:00",
     "6831496": "2026-11-26T05:28:35.961102+00:00",
-    "tema:Medio Oriente": "2026-11-26T05:28:32.173161+00:00"
+    "tema:Medio Oriente": "2026-11-26T05:28:32.173161+00:00",
+    "6976265": "2026-11-26T07:45:03.011709+00:00"
   },
   "creada": "2026-11-15 06:45 UTC"
 }
